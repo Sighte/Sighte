@@ -15,7 +15,6 @@
 - 🤖 Ich baue **KI-Agenten** – Voice-Bots, Meeting-Bots, RAG-Pipelines
 - ⛏️ In der Freizeit: **Fabric-Mods** für Hypixel SkyBlock
 - 🧩 **Claude Code Plugins** & Automatisierung für alles, was nervt
-- 🌱 Gerade dran: Agent-Orchestrierung & MCP-Server
 
 ### 🛠️ Stack
 
