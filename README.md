@@ -62,10 +62,12 @@ Claude Code Plugin, das Sessions mit einem Team-Aufgabentracker verbindet.
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sighte&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sighte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sighte&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=Sighte&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sighte/Sighte/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Sighte/Sighte/output/snake.svg" alt="Contribution Snake" width="100%"/>
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
